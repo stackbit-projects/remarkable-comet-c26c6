@@ -29,6 +29,13 @@ sections:
         url: blog/index.html
         style: button
         icon_class: dev
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
