@@ -27,7 +27,7 @@ sections:
     actions:
       - label: View Blog
         url: blog/index.html
-        style: icon
+        style: button
         icon_class: dev
 seo:
   title: Stackbit Fresh Theme
