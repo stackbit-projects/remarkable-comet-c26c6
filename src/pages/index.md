@@ -28,6 +28,7 @@ sections:
       - label: View Blog
         url: blog/index.html
         style: icon
+        icon_class: twitter
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
